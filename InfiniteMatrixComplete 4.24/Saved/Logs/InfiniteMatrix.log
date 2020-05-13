@@ -1,0 +1,1328 @@
+﻿Log file open, 05/13/20 12:08:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfiniteMatrix
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.405406
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Engine.ini]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Engine.ini]
+[2020.05.13-19.08.51:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Engine.ini]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Engine.ini]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.13-19.08.51:486][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.13-19.08.51:487][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.13-19.08.51:487][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.13-19.08.51:487][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.13-19.08.51:487][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.13-19.08.51:487][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.13-19.08.51:487][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.13-19.08.51:487][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.13-19.08.51:487][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Engine.ini]
+[2020.05.13-19.08.51:487][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Engine.ini]
+[2020.05.13-19.08.51:491][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:491][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.13-19.08.51:491][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.13-19.08.51:491][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:491][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.13-19.08.51:491][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:491][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.13-19.08.51:492][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.13-19.08.51:493][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.13-19.08.51:494][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.13-19.08.51:494][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.13-19.08.51:494][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.13-19.08.51:500][  0]LogHAL: Display: Platform has ~ 8 GB [8449183744 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.13-19.08.51:500][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.13-19.08.51:500][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.13-19.08.51:500][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.13-19.08.51:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.13-19.08.51:502][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Scalability.ini]
+[2020.05.13-19.08.51:503][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.13-19.08.51:503][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.13-19.08.51:503][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.13-19.08.51:503][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.13-19.08.51:503][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.13-19.08.51:503][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.13-19.08.51:503][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Config/Windows/Engine.ini]
+[2020.05.13-19.08.51:503][  0]LogInit: Computer: DESKTOP-4R9U2UH
+[2020.05.13-19.08.51:503][  0]LogInit: User: steph
+[2020.05.13-19.08.51:503][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.05.13-19.08.51:503][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.13-19.08.51:504][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.05.13-19.08.51:504][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.13-19.08.51:504][  0]LogMemory: Process Physical Memory: 104.59 MB used, 104.59 MB peak
+[2020.05.13-19.08.51:504][  0]LogMemory: Process Virtual Memory: 101.45 MB used, 101.45 MB peak
+[2020.05.13-19.08.51:504][  0]LogMemory: Physical Memory: 5619.87 MB used,  2437.90 MB free, 8057.77 MB total
+[2020.05.13-19.08.51:504][  0]LogMemory: Virtual Memory: 5092.75 MB used,  134212632.00 MB free, 134217728.00 MB total
+[2020.05.13-19.08.51:509][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.13-19.08.51:538][  0]LogInit: Using OS detected language (en-US).
+[2020.05.13-19.08.51:538][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.13-19.08.51:540][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.13-19.08.51:891][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.13-19.08.51:948][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.13-19.08.51:948][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.13-19.08.52:231][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.13-19.08.52:231][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.13-19.08.52:231][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.13-19.08.52:231][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.13-19.08.52:359][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.05.13-19.08.52:359][  0]LogD3D11RHI:       128/0/4028 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.05.13-19.08.52:364][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.13-19.08.52:364][  0]LogD3D11RHI:       0/0/4028 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.13-19.08.52:364][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.13-19.08.52:375][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.13-19.08.52:375][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.13-19.08.52:375][  0]LogWindows: EnumDisplayDevices:
+[2020.05.13-19.08.52:375][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.05.13-19.08.52:376][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.05.13-19.08.52:377][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.05.13-19.08.52:377][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.05.13-19.08.52:377][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.05.13-19.08.52:377][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2020.05.13-19.08.52:377][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2020.05.13-19.08.52:378][  0]LogRHI: Texture pool is 1499 MB (70% of 2142 MB)
+[2020.05.13-19.08.52:427][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.05.13-19.08.52:427][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.13-19.08.52:435][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.05.13-19.08.53:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.13-19.08.53:225][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.13-19.08.53:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.13-19.08.53:259][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.13-19.08.53:273][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.13-19.08.53:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.13-19.08.53:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.13-19.08.53:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.13-19.08.53:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.13-19.08.53:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.13-19.08.53:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.13-19.08.53:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.13-19.08.53:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.13-19.08.53:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.13-19.08.53:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.13-19.08.53:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.13-19.08.53:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.13-19.08.53:474][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.13-19.08.53:475][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.13-19.08.53:480][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.13-19.08.53:523][  0]LogShaderCompilers: Guid format shader working directory is -50 characters bigger than the processId version (../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Intermediate/Shaders/WorkingDirectory/18820/).
+[2020.05.13-19.08.53:524][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/steph/AppData/Local/Temp/UnrealShaderWorkingDir/E2DCB03F403088CBAB04E6A5CC70C816/'.
+[2020.05.13-19.08.53:525][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.13-19.08.53:525][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.13-19.08.53:525][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.13-19.08.54:624][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.13-19.08.54:705][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/steph/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.13-19.08.54:705][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/steph/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.13-19.08.54:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.13-19.08.54:705][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.13-19.08.54:706][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.13-19.08.54:706][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.13-19.08.54:718][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.13-19.08.54:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.13-19.08.54:719][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.13-19.08.54:721][  0]LogDerivedDataCache: Using Local data cache path C:/Users/steph/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.13-19.08.54:721][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.13-19.08.54:721][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.13-19.08.54:763][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.13-19.08.54:766][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.13-19.08.54:767][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.13-19.08.54:845][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2020.05.13-19.08.55:366][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.13-19.08.55:687][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.13-19.08.55:687][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.13-19.08.55:687][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.13-19.08.55:687][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.13-19.08.55:687][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.13-19.08.55:708][  0]LogNetVersion: InfiniteMatrix 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 236821994)
+[2020.05.13-19.08.57:812][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.110458 seconds
+[2020.05.13-19.08.57:827][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.13-19.08.57:827][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.13-19.08.57:827][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.13-19.08.58:716][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.13-19.08.58:847][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.13-19.08.58:948][  0]SourceControl: Source control is disabled
+[2020.05.13-19.08.58:948][  0]SourceControl: Source control is disabled
+[2020.05.13-19.08.58:950][  0]SourceControl: Source control is disabled
+[2020.05.13-19.08.58:952][  0]SourceControl: Source control is disabled
+[2020.05.13-19.08.58:954][  0]SourceControl: Source control is disabled
+[2020.05.13-19.08.59:107][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.13-19.08.59:125][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.13-19.08.59:125][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.13-19.08.59:297][  0]LogOcInput: OculusInput pre-init called
+[2020.05.13-19.08.59:311][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.13-19.08.59:311][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.13-19.08.59:449][  0]LogEngine: Initializing Engine...
+[2020.05.13-19.08.59:451][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.13-19.08.59:453][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.13-19.09.00:170][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.13-19.09.00:179][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.13-19.09.00:439][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.09.00:439][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.09.00:439][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.09.00:439][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.09.00:439][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.09.00:439][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.09.00:439][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.09.00:439][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.09.00:440][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.09.00:440][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.09.00:461][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.09.01:615][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.09.01:622][  0]LogInit: FAudioDevice initialized.
+[2020.05.13-19.09.01:623][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.13-19.09.01:731][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/steph/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.13-19.09.01:733][  0]LogInit: Texture streaming: Enabled
+[2020.05.13-19.09.01:750][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.13-19.09.01:750][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.13-19.09.01:754][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.13-19.09.01:775][  0]LogInit: Transaction tracking system initialized
+[2020.05.13-19.09.01:790][  0]BlueprintLog: New page: Editor Load
+[2020.05.13-19.09.01:837][  0]LocalizationService: Localization service is disabled
+[2020.05.13-19.09.02:469][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/' took 0.00s
+[2020.05.13-19.09.02:469][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.13-19.09.02:469][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.13-19.09.03:613][  0]SourceControl: Source control is disabled
+[2020.05.13-19.09.03:613][  0]Cmd: MAP LOAD FILE="../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.13-19.09.03:614][  0]LightingResults: New page: Lighting Build
+[2020.05.13-19.09.03:615][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.09.03:615][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.09.03:615][  0]MapCheck: New page: Map Check
+[2020.05.13-19.09.03:615][  0]LightingResults: New page: Lighting Build
+[2020.05.13-19.09.03:643][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.05.13-19.09.03:982][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.09.03:986][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.13-19.09.04:017][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.05.13-19.09.04:017][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.13-19.09.04:018][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.31ms to complete.
+[2020.05.13-19.09.04:018][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.405
+[2020.05.13-19.09.04:237][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.09.04:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.09.04:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.09.04:280][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.09.04:292][  0]LogCollectionManager: Loaded 0 collections in 0.003274 seconds
+[2020.05.13-19.09.04:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Collections/' took 0.00s
+[2020.05.13-19.09.04:321][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/Developers/steph/Collections/' took 0.00s
+[2020.05.13-19.09.04:322][  0]LogFileCache: Scanning file cache for directory 'C:/Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/Collections/' took 0.00s
+[2020.05.13-19.09.04:322][  0]LogContentBrowser: Native class hierarchy populated in 0.0156 seconds. Added 3015 classes and 717 folders.
+[2020.05.13-19.09.04:329][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.13-19.09.04:566][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.13-19.09.04:573][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.05.13-19.09.04:736][  0]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.13-19.09.04:740][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.13-19.09.04:748][  0]LogSlate: Took 0.000981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.13-19.09.04:925][  0]LogRenderer: Reallocating scene render targets to support 900x372 Format 10 NumSamples 1 (Frame:1).
+[2020.05.13-19.09.05:299][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.13-19.09.05:299][  0]LogLoad: (Engine Initialization) Total time: 16.66 seconds
+[2020.05.13-19.09.05:299][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.13-19.09.05:384][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.13-19.09.05:393][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.13-19.09.05:417][  1]LogAssetRegistry: Asset discovery search completed in 10.5734 seconds
+[2020.05.13-19.09.05:424][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000013 seconds (updated 0 objects)
+[2020.05.13-19.09.15:331][417]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.09.15:346][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.09.15:352][417]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:09:15 AM)
+[2020.05.13-19.09.15:354][417]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.13-19.09.15:360][417]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.13-19.09.15:361][417]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.09.15:366][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005184s)
+[2020.05.13-19.09.15:368][417]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.09.15:368][417]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2020.05.13-19.09.15:368][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.007528s)
+[2020.05.13-19.09.15:395][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.05.13-19.09.15:401][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.09.15:401][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.09.15:401][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.09.15:401][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.09.15:401][417]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.09.15:401][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.09.15:401][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.09.15:401][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.09.15:402][417]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.09.15:402][417]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.09.15:409][417]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.09.15:523][417]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.09.15:525][417]LogInit: FAudioDevice initialized.
+[2020.05.13-19.09.15:555][417]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.09.15:571][417]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.09.15
+[2020.05.13-19.09.15:572][417]LogWorld: Bringing up level for play took: 0.001257
+[2020.05.13-19.09.15:577][417]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.05.13-19.09.15:594][417]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.05.13-19.09.15:623][417]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.251
+[2020.05.13-19.09.21:936][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.09.21:952][727]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.13-19.09.21:972][727]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.13-19.09.21:976][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.09.21:976][727]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.09.21:977][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.09.21:977][727]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.09.21:977][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.09.21:991][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.09.21:998][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.09.22:024][727]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.09.22:033][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.09.22:037][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2020.05.13-19.09.22:063][728]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.05.13-19.10.56:268][710]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.13-19.10.56:298][710]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_01.SM_Hole_01
+[2020.05.13-19.10.57:200][710]LogRenderer: Reallocating scene render targets to support 1016x608 Format 10 NumSamples 1 (Frame:1).
+[2020.05.13-19.10.57:200][710]LogSlate: Took 0.001217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.13-19.11.01:727][750]LogSlate: Window 'SM_Hole_01' being destroyed
+[2020.05.13-19.11.01:776][750]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.11.01:776][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.25.46:564][709]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05New.obj)
+[2020.05.13-19.25.46:606][709]LogFbx: Loading FBX Scene from ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05New.obj
+[2020.05.13-19.25.46:646][709]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.13-19.26.00:656][709]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.13-19.26.01:059][709]LogLinker: Failed to load '/Game/InfiniteMatrix/Meshes/SM_Hole_05New': Can't find file.
+[2020.05.13-19.26.01:064][709]LogTexture: Display: Building textures: SM_Hole_05New1 (BGRA8, 256X1)
+[2020.05.13-19.26.01:081][709]LogMaterial: Display: Missing cached shader map for material palette, compiling. 
+[2020.05.13-19.26.01:172][709]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.05.13-19.26.01:172][709]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.05.13-19.26.01:172][709]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.05.13-19.26.01:173][709]LogStaticMesh: Building static mesh SM_Hole_05New...
+[2020.05.13-19.26.01:185][709]LogStaticMesh: Built static mesh [0.01s] /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.26.01:189][709]LogStaticMesh: Warning: SM_Hole_05New has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.13-19.26.01:189][709]LogStaticMesh: Warning: SM_Hole_05New has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.13-19.26.01:207][709]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.13-19.26.01:207][709]FBXImport: Warning: SM_Hole_05New has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.13-19.26.01:207][709]FBXImport: Warning: SM_Hole_05New has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.13-19.26.04:088][795]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.26.04:092][795]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.26.07:265][833]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.26.09:996][858]LogSlate: Window 'SM_Hole_05New' being destroyed
+[2020.05.13-19.26.10:014][858]LogSlate: Window 'SM_Hole_05New' being destroyed
+[2020.05.13-19.26.10:016][858]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.26.10:016][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.26.24:971][108]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.26.42:746][295]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_04.SM_Hole_04
+[2020.05.13-19.27.18:569][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.05.13-19.27.20:593][778]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.13-19.27.21:022][778]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.27.21:022][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.27.21:053][778]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.27.21:957][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.05.13-19.27.36:077][792]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05New.obj)
+[2020.05.13-19.27.36:111][792]LogFbx: Loading FBX Scene from ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05New.obj
+[2020.05.13-19.27.36:149][792]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.13-19.28.01:985][792]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.13-19.28.02:038][792]LogStaticMesh: Building static mesh SM_Hole_05New...
+[2020.05.13-19.28.02:047][792]LogStaticMesh: Built static mesh [0.01s] /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.28.02:049][792]LogStaticMesh: Warning: SM_Hole_05New has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.13-19.28.02:049][792]LogStaticMesh: Warning: SM_Hole_05New has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.13-19.28.02:062][792]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.13-19.28.02:062][792]FBXImport: Warning: SM_Hole_05New has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.13-19.28.02:062][792]FBXImport: Warning: SM_Hole_05New has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.13-19.28.04:444][826]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.28.04:458][826]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.28.10:361][880]LogActorFactory: Actor Factory created SM_Hole_05New
+[2020.05.13-19.28.10:772][893]LogActorFactory: Actor Factory created SM_Hole_05New
+[2020.05.13-19.28.59:187][467]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InfiniteMatrix/Materials/MI_Hole.MI_Hole
+[2020.05.13-19.29.25:007][849]LogSlate: Window 'MI_Hole' being destroyed
+[2020.05.13-19.29.25:012][849]LogSlate: Window 'MI_Hole' being destroyed
+[2020.05.13-19.29.25:034][849]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.29.25:034][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.29.25:188][849]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.29.25:188][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.30.02:308][698]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InfiniteMatrix/Materials/MI_Hole.MI_Hole
+[2020.05.13-19.30.26:303][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.05.13-19.30.26:364][398]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/TutorialMap_Auto131B0170F4446B45C8FBB3B83E1D8DB89.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto1.umap'
+[2020.05.13-19.30.26:372][398]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.113
+[2020.05.13-19.30.26:372][398]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.113
+[2020.05.13-19.30.26:373][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Meshes/SM_Hole_05New1] ([1] browsable assets)...
+[2020.05.13-19.30.26:376][398]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/InfiniteMatrix/Meshes/SM_Hole_05New1.SM_Hole_05New1]
+[2020.05.13-19.30.26:376][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Meshes/SM_Hole_05New1]
+[2020.05.13-19.30.26:383][398]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_05New1_Auto18EA5C60B4C6676E14B989497BEB6480E.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Meshes/SM_Hole_05New1_Auto1.uasset'
+[2020.05.13-19.30.26:387][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Meshes/palette] ([1] browsable assets)...
+[2020.05.13-19.30.26:436][398]OBJ SavePackage:     Rendered thumbnail for [Material /Game/InfiniteMatrix/Meshes/palette.palette]
+[2020.05.13-19.30.26:436][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Meshes/palette]
+[2020.05.13-19.30.26:464][398]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/palette_Auto12CC71D88490A3B1B808944BC845D731B.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Meshes/palette_Auto1.uasset'
+[2020.05.13-19.30.26:468][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Meshes/SM_Hole_05New] ([1] browsable assets)...
+[2020.05.13-19.30.26:513][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New]
+[2020.05.13-19.30.26:513][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Meshes/SM_Hole_05New]
+[2020.05.13-19.30.26:540][398]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_05New_Auto194A53CE1441CD0A188A44B9710BA8885.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Meshes/SM_Hole_05New_Auto1.uasset'
+[2020.05.13-19.30.26:544][398]LogFileHelpers: Auto-saving content packages took 0.173
+[2020.05.13-19.30.51:696][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.05.13-19.30.51:737][858]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.13-19.30.53:409][858]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.13-19.30.53:409][858]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.13-19.30.53:415][858]TextureStreamingBuild: Display: Compiling optional shaders took 1.717 seconds.
+[2020.05.13-19.30.53:443][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.13-19.30.53:463][858]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/MI_Hole5DBAB2714BD068893B70A497B937F2EE.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Materials/MI_Hole.uasset'
+[2020.05.13-19.30.53:506][858]AssetCheck: New page: Asset Save: MI_Hole
+[2020.05.13-19.30.53:506][858]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/InfiniteMatrix/Materials/MI_Hole.MI_Hole
+[2020.05.13-19.31.01:217][975]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_04.SM_Hole_04
+[2020.05.13-19.31.39:107][484]Cmd: TRANSACTION UNDO
+[2020.05.13-19.31.39:107][484]LogEditorTransaction: Undo Edit Preview Mesh
+[2020.05.13-19.31.39:869][502]Cmd: TRANSACTION UNDO
+[2020.05.13-19.31.39:869][502]LogEditorTransaction: Undo Edit Preview Mesh
+[2020.05.13-19.31.41:163][518]Cmd: TRANSACTION UNDO
+[2020.05.13-19.31.41:163][518]LogEditorTransaction: Undo Edit Preview Mesh
+[2020.05.13-19.31.42:713][538]Cmd: TRANSACTION UNDO
+[2020.05.13-19.31.42:713][538]LogEditorTransaction: Undo Set Scale
+[2020.05.13-19.31.44:289][558]Cmd: TRANSACTION UNDO
+[2020.05.13-19.31.44:289][558]LogEditorTransaction: Undo Set Scale
+[2020.05.13-19.31.45:156][568]Cmd: TRANSACTION UNDO
+[2020.05.13-19.31.45:156][568]LogEditorTransaction: Undo Set Scale
+[2020.05.13-19.31.45:892][576]Cmd: TRANSACTION UNDO
+[2020.05.13-19.31.45:892][576]LogEditorTransaction: Undo Set Rotation
+[2020.05.13-19.31.46:501][582]Cmd: TRANSACTION UNDO
+[2020.05.13-19.31.46:501][582]LogEditorTransaction: Undo Create Actors
+[2020.05.13-19.31.53:722][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.05.13-19.31.53:774][688]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.13-19.31.55:201][688]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.13-19.31.55:201][688]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.13-19.31.55:203][688]TextureStreamingBuild: Display: Compiling optional shaders took 1.455 seconds.
+[2020.05.13-19.31.55:229][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.13-19.31.55:256][688]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.31.55:256][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.32.09:105][865]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.32.32:343][ 81]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.32.32:343][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.33.12:005][341]LogSlate: Window 'SM_Hole_04' being destroyed
+[2020.05.13-19.33.12:026][341]LogSlate: Window 'SM_Hole_04' being destroyed
+[2020.05.13-19.33.12:045][341]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.33.12:045][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.33.17:646][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.05.13-19.33.25:415][530]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.13-19.33.25:602][530]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.33.25:942][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.05.13-19.33.34:691][577]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05New.obj)
+[2020.05.13-19.33.34:727][577]LogFbx: Loading FBX Scene from ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05New.obj
+[2020.05.13-19.33.34:772][577]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.13-19.33.55:291][577]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.13-19.33.55:362][577]LogStaticMesh: Building static mesh SM_Hole_05New...
+[2020.05.13-19.33.55:371][577]LogStaticMesh: Built static mesh [0.01s] /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.33.55:373][577]LogStaticMesh: Warning: SM_Hole_05New has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.13-19.33.55:373][577]LogStaticMesh: Warning: SM_Hole_05New has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.13-19.33.55:385][577]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.13-19.33.55:385][577]FBXImport: Warning: SM_Hole_05New has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.13-19.33.55:385][577]FBXImport: Warning: SM_Hole_05New has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.13-19.33.57:719][651]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.33.57:723][651]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.34.03:318][810]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.34.27:992][ 13]LogSlate: Window 'SM_Hole_05New' being destroyed
+[2020.05.13-19.34.28:009][ 13]LogSlate: Window 'SM_Hole_05New' being destroyed
+[2020.05.13-19.34.28:011][ 13]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.34.28:011][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.34.42:811][523]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.34.42:823][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.34.42:823][523]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:34:42 AM)
+[2020.05.13-19.34.42:823][523]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.34.42:827][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003255s)
+[2020.05.13-19.34.42:828][523]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.34.42:829][523]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2020.05.13-19.34.42:829][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005193s)
+[2020.05.13-19.34.42:863][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.05.13-19.34.42:867][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.34.42:867][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.34.42:867][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.34.42:867][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.34.42:867][523]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.34.42:867][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.34.42:867][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.34.42:867][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.34.42:868][523]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.34.42:868][523]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.34.42:879][523]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.34.42:993][523]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.34.42:996][523]LogInit: FAudioDevice initialized.
+[2020.05.13-19.34.43:012][523]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.34.43:013][523]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.34.43
+[2020.05.13-19.34.43:013][523]LogWorld: Bringing up level for play took: 0.000705
+[2020.05.13-19.34.43:014][523]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.05.13-19.34.43:019][523]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.352
+[2020.05.13-19.34.50:704][882]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.34.50:722][882]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.13-19.34.50:741][882]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.13-19.34.50:741][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.34.50:742][882]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.34.50:742][882]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.34.50:742][882]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.34.50:742][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.34.50:757][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.34.50:763][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.34.50:802][882]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.34.50:811][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.34.50:816][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.05.13-19.34.50:846][883]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.13-19.35.10:037][346]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_04.SM_Hole_04
+[2020.05.13-19.36.47:599][172]LogSlate: Window 'SM_Hole_04' being destroyed
+[2020.05.13-19.36.47:619][172]LogSlate: Window 'SM_Hole_04' being destroyed
+[2020.05.13-19.36.47:645][172]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.36.47:645][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.36.52:715][241]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.37.26:459][606]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_05New721730C34E53397C5692F791E2F6D6F0.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Hole_05New.uasset'
+[2020.05.13-19.37.26:589][606]AssetCheck: New page: Asset Save: SM_Hole_05New
+[2020.05.13-19.37.26:589][606]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.37.52:909][910]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2020.05.13-19.37.53:276][910]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.05.13-19.37.54:544][910]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.13-19.38.23:269][462]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-19.38.23:735][462]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.05.13-19.38.29:096][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.38.29:183][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.38.29:185][545]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:38:29 AM)
+[2020.05.13-19.38.29:186][545]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.38.29:192][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006211s)
+[2020.05.13-19.38.29:194][545]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.38.29:194][545]LogPlayLevel: PIE: World Init took: (0.001894s)
+[2020.05.13-19.38.29:194][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.008479s)
+[2020.05.13-19.38.29:251][545]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2020.05.13-19.38.29:254][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.38.29:254][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.38.29:254][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.38.29:254][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.38.29:254][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.38.29:254][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.38.29:254][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.38.29:254][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.38.29:255][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.38.29:255][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.38.29:266][545]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.38.29:426][545]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.38.29:428][545]LogInit: FAudioDevice initialized.
+[2020.05.13-19.38.29:443][545]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.38.29:444][545]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.38.29
+[2020.05.13-19.38.29:445][545]LogWorld: Bringing up level for play took: 0.000882
+[2020.05.13-19.38.29:445][545]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.05.13-19.38.29:453][545]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.082
+[2020.05.13-19.38.52:416][651]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.38.52:420][651]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.13-19.38.52:440][651]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.13-19.38.52:441][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.38.52:441][651]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.38.52:441][651]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.38.52:441][651]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.38.52:442][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.38.52:456][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.38.52:463][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.38.52:517][651]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.38.52:525][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.38.52:532][651]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.05.13-19.38.52:559][652]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.13-19.39.51:093][474]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_05New55B4E88B4784D11EC9153EA300F558E6.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Hole_05New.uasset'
+[2020.05.13-19.39.51:132][474]AssetCheck: New page: Asset Save: SM_Hole_05New
+[2020.05.13-19.39.51:132][474]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.39.54:601][559]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.39.54:629][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.39.54:629][559]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:39:54 AM)
+[2020.05.13-19.39.54:629][559]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.39.54:633][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004368s)
+[2020.05.13-19.39.54:635][559]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.39.54:639][559]LogPlayLevel: PIE: World Init took: (0.005677s)
+[2020.05.13-19.39.54:639][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.010298s)
+[2020.05.13-19.39.54:689][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.05.13-19.39.54:691][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.39.54:691][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.39.54:691][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.39.54:691][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.39.54:691][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.39.54:691][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.39.54:691][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.39.54:691][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.39.54:692][559]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.39.54:692][559]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.39.54:700][559]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.39.54:700][559]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.39.54:701][559]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.39.54:701][559]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.39.54:701][559]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.39.54:701][559]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.39.54:701][559]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.39.54:701][559]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.39.54:701][559]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.39.54:819][559]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.39.54:822][559]LogInit: FAudioDevice initialized.
+[2020.05.13-19.39.54:844][559]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.39.54:846][559]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.39.54
+[2020.05.13-19.39.54:846][559]LogWorld: Bringing up level for play took: 0.001216
+[2020.05.13-19.39.54:847][559]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.05.13-19.39.54:855][559]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.517
+[2020.05.13-19.40.00:616][754]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.40.00:616][754]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.40.00:616][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.40.00:616][754]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.40.00:620][754]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.40.00:621][754]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.40.00:621][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.40.00:637][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.40.00:646][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.40.00:682][754]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.40.00:688][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.40.00:693][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.05.13-19.40.00:716][755]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.05.13-19.40.16:184][994]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_05New696A3D16414A3F24448B24835AC7361C.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Hole_05New.uasset'
+[2020.05.13-19.40.16:215][994]AssetCheck: New page: Asset Save: SM_Hole_05New
+[2020.05.13-19.40.16:215][994]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.40.37:549][452]LogSlate: Took 0.005207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.05.13-19.41.13:519][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.05.13-19.41.13:522][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.048
+[2020.05.13-19.41.13:523][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2020.05.13-19.41.13:566][190]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2020.05.13-19.41.13:566][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2020.05.13-19.41.13:638][190]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/BP_Tunnel_Auto279688B4C45DBEE4D42AAA49BFBE37B6A.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto2.uasset'
+[2020.05.13-19.41.13:643][190]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Materials/MI_Hole] ([1] browsable assets)...
+[2020.05.13-19.41.13:687][190]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/InfiniteMatrix/Materials/MI_Hole.MI_Hole]
+[2020.05.13-19.41.13:687][190]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Materials/MI_Hole]
+[2020.05.13-19.41.13:729][190]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/MI_Hole_Auto2F3B0B2AF40FBDCC536F63A82542EBF66.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Materials/MI_Hole_Auto2.uasset'
+[2020.05.13-19.41.13:733][190]LogFileHelpers: Auto-saving content packages took 0.210
+[2020.05.13-19.43.29:998][ 27]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.43.29:998][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.43.54:515][612]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2020.05.13-19.46.25:408][308]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-19.46.25:841][308]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.05.13-19.46.29:989][449]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.46.30:009][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.46.30:009][449]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:46:30 AM)
+[2020.05.13-19.46.30:009][449]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.46.30:012][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003034s)
+[2020.05.13-19.46.30:013][449]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.46.30:014][449]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2020.05.13-19.46.30:014][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004564s)
+[2020.05.13-19.46.30:065][449]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.05.13-19.46.30:066][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.46.30:066][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.46.30:066][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.46.30:066][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.46.30:066][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.46.30:066][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.46.30:066][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.46.30:066][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.46.30:067][449]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.46.30:067][449]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.46.30:078][449]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.46.30:206][449]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.46.30:209][449]LogInit: FAudioDevice initialized.
+[2020.05.13-19.46.30:220][449]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.46.30:220][449]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.46.30
+[2020.05.13-19.46.30:221][449]LogWorld: Bringing up level for play took: 0.000715
+[2020.05.13-19.46.30:221][449]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.05.13-19.46.30:229][449]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.857
+[2020.05.13-19.46.50:642][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.46.50:660][439]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.13-19.46.50:681][439]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.13-19.46.50:681][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.46.50:681][439]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.46.50:681][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.46.50:681][439]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.46.50:682][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.46.50:700][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.46.50:707][439]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.46.50:763][439]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.46.50:772][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.46.50:780][439]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.05.13-19.46.50:809][440]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.05.13-19.46.54:418][515]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/InfiniteMatrix/Materials/MI_Hole.MI_Hole
+[2020.05.13-19.48.39:331][481]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-19.48.39:795][481]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2020.05.13-19.48.44:611][597]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.48.44:638][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.48.44:638][597]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:48:44 AM)
+[2020.05.13-19.48.44:638][597]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.48.44:642][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004305s)
+[2020.05.13-19.48.44:644][597]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.48.44:644][597]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2020.05.13-19.48.44:644][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006202s)
+[2020.05.13-19.48.44:699][597]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.05.13-19.48.44:699][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.48.44:700][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.48.44:700][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.48.44:700][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.48.44:700][597]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.48.44:700][597]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.48.44:700][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.48.44:700][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.48.44:701][597]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.48.44:701][597]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.48.44:716][597]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.48.44:865][597]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.48.44:868][597]LogInit: FAudioDevice initialized.
+[2020.05.13-19.48.44:889][597]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.48.44:890][597]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.48.44
+[2020.05.13-19.48.44:891][597]LogWorld: Bringing up level for play took: 0.000814
+[2020.05.13-19.48.44:892][597]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.05.13-19.48.44:900][597]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.472
+[2020.05.13-19.48.50:682][877]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.48.50:682][877]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.48.50:682][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.48.50:683][877]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.48.50:683][877]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.48.50:683][877]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.48.50:684][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.48.50:722][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.48.50:731][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.48.50:784][877]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.48.50:795][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.48.50:802][877]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.05.13-19.48.50:830][878]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.05.13-19.49.11:628][212]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.13-19.50.08:753][700]LogSlate: Window 'MI_Hole' being destroyed
+[2020.05.13-19.50.08:760][700]LogSlate: Window 'MI_Hole' being destroyed
+[2020.05.13-19.50.08:800][700]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.50.08:800][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.50.08:896][700]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.13-19.50.08:896][700]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.50.08:896][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.50.09:027][700]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.05.13-19.50.09:068][700]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.05.13-19.50.09:960][700]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2020.05.13-19.50.09:960][700]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.05.13-19.50.09:962][700]TextureStreamingBuild: Display: Compiling optional shaders took 0.916 seconds.
+[2020.05.13-19.50.09:998][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.05.13-19.50.10:020][700]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.50.10:020][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.50.31:779][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.05.13-19.50.35:014][475]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.13-19.51.14:402][475]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.51.15:023][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.05.13-19.51.15:058][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.05.13-19.51.15:090][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.13-19.51.49:073][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.05.13-19.51.49:108][619]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/TutorialMap_Auto3566835904397116B83CA92A692FAD9CF.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto3.umap'
+[2020.05.13-19.51.49:113][619]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.078
+[2020.05.13-19.51.49:114][619]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.078
+[2020.05.13-19.51.49:114][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2020.05.13-19.51.49:156][619]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2020.05.13-19.51.49:156][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2020.05.13-19.51.49:205][619]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/BP_Tunnel_Auto37015320B4417A808966CC7B757FBFC66.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto3.uasset'
+[2020.05.13-19.51.49:209][619]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Materials/MI_Hole] ([1] browsable assets)...
+[2020.05.13-19.51.49:255][619]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/InfiniteMatrix/Materials/MI_Hole.MI_Hole]
+[2020.05.13-19.51.49:255][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Materials/MI_Hole]
+[2020.05.13-19.51.49:280][619]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/MI_Hole_Auto300264C164B779E594A4AE79B36E8EA72.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Materials/MI_Hole_Auto3.uasset'
+[2020.05.13-19.51.49:283][619]LogFileHelpers: Auto-saving content packages took 0.170
+[2020.05.13-19.52.00:744][642]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05.obj)
+[2020.05.13-19.52.00:777][642]LogFbx: Loading FBX Scene from ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05.obj
+[2020.05.13-19.52.00:830][642]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.13-19.52.06:184][642]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.13-19.52.06:233][642]LogStaticMesh: Building static mesh SM_Hole_05...
+[2020.05.13-19.52.06:243][642]LogStaticMesh: Built static mesh [0.01s] /Game/InfiniteMatrix/Meshes/SM_Hole_05.SM_Hole_05
+[2020.05.13-19.52.06:245][642]LogStaticMesh: Warning: SM_Hole_05 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.13-19.52.06:245][642]LogStaticMesh: Warning: SM_Hole_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.13-19.52.06:262][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.13-19.52.06:262][642]FBXImport: Warning: SM_Hole_05 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.13-19.52.06:262][642]FBXImport: Warning: SM_Hole_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.13-19.52.09:855][767]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.52.09:859][767]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.52.17:419][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2020.05.13-19.52.43:477][519]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-19.52.43:823][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.05.13-19.52.52:293][700]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05.SM_Hole_05
+[2020.05.13-19.53.04:381][862]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_05E3A6DD094B38408E56AAD2B6195506EE.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Hole_05.uasset'
+[2020.05.13-19.53.04:419][862]AssetCheck: New page: Asset Save: SM_Hole_05
+[2020.05.13-19.53.04:419][862]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05.SM_Hole_05
+[2020.05.13-19.53.18:703][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.53.18:731][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.53.18:731][ 42]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:53:18 AM)
+[2020.05.13-19.53.18:731][ 42]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.53.18:735][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003864s)
+[2020.05.13-19.53.18:737][ 42]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.53.18:737][ 42]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2020.05.13-19.53.18:737][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.006040s)
+[2020.05.13-19.53.18:793][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2020.05.13-19.53.18:794][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.53.18:794][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.53.18:794][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.53.18:794][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.53.18:794][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.53.18:794][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.53.18:794][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.53.18:794][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.53.18:795][ 42]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.53.18:795][ 42]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.53.18:811][ 42]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.53.18:811][ 42]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.53.18:812][ 42]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.53.18:812][ 42]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.53.18:812][ 42]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.53.18:812][ 42]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.53.18:812][ 42]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.53.18:812][ 42]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.53.18:812][ 42]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.53.18:976][ 42]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.53.18:979][ 42]LogInit: FAudioDevice initialized.
+[2020.05.13-19.53.18:996][ 42]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.53.18:997][ 42]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.53.18
+[2020.05.13-19.53.18:997][ 42]LogWorld: Bringing up level for play took: 0.000630
+[2020.05.13-19.53.18:997][ 42]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.05.13-19.53.19:005][ 42]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.366
+[2020.05.13-19.53.31:887][661]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.53.31:888][661]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.53.31:890][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.53.31:890][661]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.53.31:890][661]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.53.31:890][661]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.53.31:891][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.53.31:908][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.53.31:917][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.53.31:963][661]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.53.31:972][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.53.31:980][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2020.05.13-19.53.32:022][662]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.05.13-19.54.03:443][ 29]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-19.54.03:923][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.05.13-19.54.10:131][ 96]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-19.54.10:653][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.05.13-19.54.11:829][109]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.54.11:914][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.54.11:914][109]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:54:11 AM)
+[2020.05.13-19.54.11:914][109]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.54.11:917][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003276s)
+[2020.05.13-19.54.11:919][109]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.54.11:920][109]LogPlayLevel: PIE: World Init took: (0.002124s)
+[2020.05.13-19.54.11:920][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005652s)
+[2020.05.13-19.54.11:969][109]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2020.05.13-19.54.11:969][109]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.54.11:969][109]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.54.11:969][109]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.54.11:970][109]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.54.11:970][109]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.54.11:970][109]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.54.11:970][109]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.54.11:970][109]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.54.11:970][109]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.54.11:970][109]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.54.11:980][109]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.54.12:106][109]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.54.12:109][109]LogInit: FAudioDevice initialized.
+[2020.05.13-19.54.12:131][109]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.54.12:132][109]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.54.12
+[2020.05.13-19.54.12:132][109]LogWorld: Bringing up level for play took: 0.000678
+[2020.05.13-19.54.12:133][109]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.05.13-19.54.12:142][109]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.77
+[2020.05.13-19.54.17:559][301]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_056905D2B54E18DCE0C7932EBB9A6ED7B0.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Hole_05.uasset'
+[2020.05.13-19.54.17:573][301]AssetCheck: New page: Asset Save: SM_Hole_05
+[2020.05.13-19.54.17:573][301]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05.SM_Hole_05
+[2020.05.13-19.54.46:232][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.54.46:232][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.54.46:233][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.54.46:233][632]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.54.46:233][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.54.46:233][632]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.54.46:234][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.54.46:265][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.54.46:272][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.54.46:322][632]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.54.46:331][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.54.46:337][632]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.05.13-19.54.46:368][633]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.05.13-19.55.22:827][853]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05New.obj)
+[2020.05.13-19.55.22:876][853]LogFbx: Loading FBX Scene from ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Hole_05New.obj
+[2020.05.13-19.55.22:924][853]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.13-19.55.25:549][853]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.13-19.55.25:611][853]LogStaticMesh: Building static mesh SM_Hole_05New...
+[2020.05.13-19.55.25:622][853]LogStaticMesh: Built static mesh [0.01s] /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.55.25:625][853]LogStaticMesh: Warning: SM_Hole_05New has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.13-19.55.25:625][853]LogStaticMesh: Warning: SM_Hole_05New has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.13-19.55.25:659][853]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.13-19.55.25:660][853]FBXImport: Warning: SM_Hole_05New has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.13-19.55.25:660][853]FBXImport: Warning: SM_Hole_05New has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.13-19.55.28:276][881]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.55.28:370][881]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-19.55.34:647][944]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.55.41:749][ 25]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_05New9C05EA2D4085182D4F084E92B5B20459.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Hole_05New.uasset'
+[2020.05.13-19.55.41:785][ 25]AssetCheck: New page: Asset Save: SM_Hole_05New
+[2020.05.13-19.55.41:785][ 25]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-19.55.58:233][161]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-19.55.58:594][161]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.05.13-19.56.02:741][198]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-19.56.02:804][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-19.56.02:804][198]PIE: New page: PIE session: TutorialMap (May 13, 2020, 5:56:02 AM)
+[2020.05.13-19.56.02:804][198]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.56.02:813][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008479s)
+[2020.05.13-19.56.02:814][198]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-19.56.02:815][198]LogPlayLevel: PIE: World Init took: (0.001637s)
+[2020.05.13-19.56.02:815][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.010570s)
+[2020.05.13-19.56.02:870][198]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2020.05.13-19.56.02:871][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-19.56.02:871][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-19.56.02:871][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-19.56.02:871][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-19.56.02:871][198]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-19.56.02:871][198]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-19.56.02:871][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-19.56.02:871][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-19.56.02:872][198]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-19.56.02:872][198]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: Channel Order:
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-19.56.02:885][198]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-19.56.03:017][198]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-19.56.03:020][198]LogInit: FAudioDevice initialized.
+[2020.05.13-19.56.03:044][198]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-19.56.03:045][198]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-12.56.03
+[2020.05.13-19.56.03:045][198]LogWorld: Bringing up level for play took: 0.000717
+[2020.05.13-19.56.03:046][198]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.05.13-19.56.03:052][198]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap -0.32
+[2020.05.13-19.56.13:526][703]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.56.13:531][703]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.13-19.56.13:550][703]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.13-19.56.13:550][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.56.13:551][703]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-19.56.13:551][703]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.56.13:551][703]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-19.56.13:552][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.56.13:563][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-19.56.13:569][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-19.56.13:618][703]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-19.56.13:626][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-19.56.13:633][703]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.05.13-19.56.13:662][704]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.05.13-19.56.30:989][836]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-19.56.31:406][836]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.05.13-19.56.46:334][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.05.13-19.56.46:414][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.05.13-19.56.46:445][ 40]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/TutorialMap8DC4C07345C1D715914995A618C6FF3A.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2020.05.13-19.56.46:478][ 40]LogFileHelpers: Saving map 'TutorialMap' took 0.108
+[2020.05.13-19.56.46:576][ 40]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/BP_TunnelF94263264F7574E401E253B8059B1A10.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.05.13-19.56.46:594][ 40]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/MI_Hole208707CD4F65B9D00C4337B2C453CD97.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Materials/MI_Hole.uasset'
+[2020.05.13-19.56.46:626][ 40]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Hole_05New17614F07D4C24D83A67ED449A5B892504.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Hole_05New1.uasset'
+[2020.05.13-19.56.46:643][ 40]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/palette703D042B429E883B83BDA885F3EE7798.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/palette.uasset'
+[2020.05.13-19.56.46:708][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/InfiniteMatrix/Materials/MI_Hole.MI_Hole
+[2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating Texture2D /Game/InfiniteMatrix/Meshes/SM_Hole_05New1.SM_Hole_05New1
+[2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating Material /Game/InfiniteMatrix/Meshes/palette.palette
