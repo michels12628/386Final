@@ -1326,3 +1326,471 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/InfiniteMatrix/Materials/MI_Hole.MI_Hole
 [2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating Texture2D /Game/InfiniteMatrix/Meshes/SM_Hole_05New1.SM_Hole_05New1
 [2020.05.13-19.56.46:708][ 40]LogContentValidation: Display: Validating Material /Game/InfiniteMatrix/Meshes/palette.palette
+[2020.05.13-20.15.05:701][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.05.13-20.15.09:638][603]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.13-20.15.50:662][603]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.15.50:662][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.15.50:710][603]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.15.50:711][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.15.50:786][603]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_05.SM_Hole_05
+[2020.05.13-20.15.51:444][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.05.13-20.15.51:481][603]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.05.13-20.15.51:518][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.05.13-20.15.58:261][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.05.13-20.16.02:688][780]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.13-20.16.03:194][780]LogSlate: Window 'SM_Hole_05New' being destroyed
+[2020.05.13-20.16.03:279][780]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.16.03:280][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.16.03:320][780]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/InfiniteMatrix/Meshes/SM_Hole_05New.SM_Hole_05New
+[2020.05.13-20.16.03:911][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.05.13-20.16.03:954][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.05.13-20.16.03:995][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.05.13-20.16.19:119][829]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Holee_05.obj)
+[2020.05.13-20.16.19:157][829]LogFbx: Loading FBX Scene from ../../../../../../Users/steph/Desktop/CrossyRoad_Images/SM_Holee_05.obj
+[2020.05.13-20.16.19:195][829]LogFbx: FBX Scene Loaded Succesfully
+[2020.05.13-20.16.23:777][829]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.05.13-20.16.23:840][829]LogStaticMesh: Building static mesh SM_Holee_05...
+[2020.05.13-20.16.23:850][829]LogStaticMesh: Built static mesh [0.01s] /Game/InfiniteMatrix/Meshes/SM_Holee_05.SM_Holee_05
+[2020.05.13-20.16.23:852][829]LogStaticMesh: Warning: SM_Holee_05 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.05.13-20.16.23:852][829]LogStaticMesh: Warning: SM_Holee_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.05.13-20.16.23:869][829]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.05.13-20.16.23:869][829]FBXImport: Warning: SM_Holee_05 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.05.13-20.16.23:870][829]FBXImport: Warning: SM_Holee_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.05.13-20.16.38:747][391]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-20.16.38:758][391]LogSlate: Window 'Message Log' being destroyed
+[2020.05.13-20.16.43:938][456]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Holee_05.SM_Holee_05
+[2020.05.13-20.17.05:874][722]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.05.13-20.17.05:877][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.054
+[2020.05.13-20.17.05:878][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2020.05.13-20.17.05:878][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2020.05.13-20.17.05:942][722]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/BP_Tunnel_Auto400DB47E9457A58F5DB54ADAA99F57BD7.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto4.uasset'
+[2020.05.13-20.17.05:946][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Meshes/SM_Holee_05] ([1] browsable assets)...
+[2020.05.13-20.17.05:989][722]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/InfiniteMatrix/Meshes/SM_Holee_05.SM_Holee_05]
+[2020.05.13-20.17.05:989][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Meshes/SM_Holee_05]
+[2020.05.13-20.17.06:030][722]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Holee_05_Auto4A5C38E4B489B704784D23E9EC6B15018.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Meshes/SM_Holee_05_Auto4.uasset'
+[2020.05.13-20.17.06:034][722]LogFileHelpers: Auto-saving content packages took 0.157
+[2020.05.13-20.17.17:784][900]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Holee_05D9C4F2934A0E0F6B89C6668AFFD73B8F.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Holee_05.uasset'
+[2020.05.13-20.17.17:816][900]AssetCheck: New page: Asset Save: SM_Holee_05
+[2020.05.13-20.17.17:816][900]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Holee_05.SM_Holee_05
+[2020.05.13-20.17.25:045][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2020.05.13-20.17.46:064][278]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.17.46:540][278]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.05.13-20.18.20:637][730]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/BP_Tunnel11F56DA340556A7B0BBA94A2F75DA787.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset'
+[2020.05.13-20.18.20:709][730]AssetCheck: New page: Asset Save: BP_Tunnel
+[2020.05.13-20.18.20:709][730]LogContentValidation: Display: Validating Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2020.05.13-20.18.27:824][815]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-20.18.27:858][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-20.18.27:858][815]PIE: New page: PIE session: TutorialMap (May 13, 2020, 6:18:27 AM)
+[2020.05.13-20.18.27:859][815]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.18.27:864][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005142s)
+[2020.05.13-20.18.27:866][815]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-20.18.27:867][815]LogPlayLevel: PIE: World Init took: (0.002671s)
+[2020.05.13-20.18.27:867][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.008178s)
+[2020.05.13-20.18.27:921][815]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.05.13-20.18.27:923][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-20.18.27:923][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-20.18.27:923][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-20.18.27:923][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-20.18.27:923][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-20.18.27:923][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-20.18.27:923][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-20.18.27:923][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-20.18.27:924][815]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-20.18.27:924][815]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: Channel Order:
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-20.18.27:936][815]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-20.18.28:073][815]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.18.28:076][815]LogInit: FAudioDevice initialized.
+[2020.05.13-20.18.28:099][815]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-20.18.28:100][815]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-13.18.28
+[2020.05.13-20.18.28:100][815]LogWorld: Bringing up level for play took: 0.000859
+[2020.05.13-20.18.28:101][815]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.05.13-20.18.28:111][815]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.739
+[2020.05.13-20.18.56:875][204]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.18.56:875][204]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.18.56:875][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.18.56:876][204]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.18.56:876][204]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.18.56:876][204]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.18.56:877][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.18.56:896][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-20.18.56:905][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.18.56:957][204]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.18.56:966][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.18.56:974][204]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2020.05.13-20.18.57:012][205]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.05.13-20.19.19:170][428]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Tunnel.SM_Tunnel
+[2020.05.13-20.19.23:537][463]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.19.23:539][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.20.17:898][ 58]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.20.18:312][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.05.13-20.21.48:771][730]LogSlate: Window 'BP_Tunnel' being destroyed
+[2020.05.13-20.21.48:780][730]LogSlate: Window 'BP_Tunnel' being destroyed
+[2020.05.13-20.21.48:807][730]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.21.48:807][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.21.49:008][730]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.21.49:008][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.22.06:897][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Player.BP_Player
+[2020.05.13-20.22.12:861][324]LogSlate: Window 'BP_Player' being destroyed
+[2020.05.13-20.22.12:869][324]LogSlate: Window 'BP_Player' being destroyed
+[2020.05.13-20.22.12:921][324]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.22.12:921][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.22.21:792][613]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel
+[2020.05.13-20.22.52:435][208]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.13-20.22.52:942][217]LogEditorTransaction: Undo Modify Component(s)
+[2020.05.13-20.23.06:743][491]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.23.07:202][491]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.05.13-20.23.18:769][709]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.23.19:100][709]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.05.13-20.23.23:569][813]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-20.23.23:596][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-20.23.23:596][813]PIE: New page: PIE session: TutorialMap (May 13, 2020, 6:23:23 AM)
+[2020.05.13-20.23.23:596][813]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.23.23:600][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003593s)
+[2020.05.13-20.23.23:602][813]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-20.23.23:602][813]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2020.05.13-20.23.23:602][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005427s)
+[2020.05.13-20.23.23:647][813]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.05.13-20.23.23:648][813]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-20.23.23:648][813]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-20.23.23:648][813]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-20.23.23:648][813]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-20.23.23:648][813]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-20.23.23:648][813]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-20.23.23:648][813]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-20.23.23:648][813]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-20.23.23:649][813]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-20.23.23:649][813]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: Channel Order:
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-20.23.23:658][813]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-20.23.23:790][813]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.23.23:793][813]LogInit: FAudioDevice initialized.
+[2020.05.13-20.23.23:803][813]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-20.23.23:804][813]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-13.23.23
+[2020.05.13-20.23.23:804][813]LogWorld: Bringing up level for play took: 0.000633
+[2020.05.13-20.23.23:805][813]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.05.13-20.23.23:811][813]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.44
+[2020.05.13-20.23.57:254][382]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.23.57:269][382]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.13-20.23.57:290][382]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.13-20.23.57:290][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.23.57:290][382]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.23.57:290][382]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.23.57:291][382]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.23.57:291][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.23.57:304][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-20.23.57:312][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.23.57:355][382]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.23.57:363][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.23.57:371][382]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.05.13-20.23.57:401][383]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.05.13-20.24.30:976][ 13]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/BP_TunnelSpawner.BP_TunnelSpawner
+[2020.05.13-20.24.44:943][309]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.24.45:374][309]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.05.13-20.24.49:203][386]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-20.24.49:239][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-20.24.49:239][386]PIE: New page: PIE session: TutorialMap (May 13, 2020, 6:24:49 AM)
+[2020.05.13-20.24.49:239][386]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.24.49:243][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003510s)
+[2020.05.13-20.24.49:244][386]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-20.24.49:244][386]LogPlayLevel: PIE: World Init took: (0.001691s)
+[2020.05.13-20.24.49:244][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.005423s)
+[2020.05.13-20.24.49:295][386]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.05.13-20.24.49:296][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-20.24.49:296][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-20.24.49:296][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-20.24.49:296][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-20.24.49:296][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-20.24.49:297][386]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-20.24.49:297][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-20.24.49:297][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-20.24.49:297][386]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-20.24.49:297][386]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: Channel Order:
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-20.24.49:306][386]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-20.24.49:432][386]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.24.49:435][386]LogInit: FAudioDevice initialized.
+[2020.05.13-20.24.49:453][386]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-20.24.49:454][386]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-13.24.49
+[2020.05.13-20.24.49:455][386]LogWorld: Bringing up level for play took: 0.000651
+[2020.05.13-20.24.49:455][386]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2020.05.13-20.24.49:463][386]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.091
+[2020.05.13-20.25.22:659][961]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InfiniteMatrix/Blueprints/GM_Tutorial.GM_Tutorial
+[2020.05.13-20.25.27:563][131]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.25.27:564][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.25.46:218][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.25.46:219][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.25.46:219][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.25.46:219][723]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.25.46:220][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.25.46:220][723]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.25.46:225][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.25.46:256][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-20.25.46:263][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.25.46:306][723]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.25.46:314][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.25.46:320][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.05.13-20.25.46:403][724]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.05.13-20.26.33:812][833]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.26.34:165][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.05.13-20.26.39:697][  3]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-20.26.39:728][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-20.26.39:729][  3]PIE: New page: PIE session: TutorialMap (May 13, 2020, 6:26:39 AM)
+[2020.05.13-20.26.39:729][  3]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.26.39:732][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003184s)
+[2020.05.13-20.26.39:733][  3]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-20.26.39:733][  3]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2020.05.13-20.26.39:733][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004955s)
+[2020.05.13-20.26.39:781][  3]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2020.05.13-20.26.39:782][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-20.26.39:782][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-20.26.39:782][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-20.26.39:783][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-20.26.39:783][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-20.26.39:783][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-20.26.39:783][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-20.26.39:783][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-20.26.39:783][  3]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-20.26.39:783][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-20.26.39:793][  3]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-20.26.39:794][  3]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.26.39:794][  3]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-20.26.39:794][  3]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-20.26.39:794][  3]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-20.26.39:794][  3]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-20.26.39:794][  3]LogAudioMixer: Display: Channel Order:
+[2020.05.13-20.26.39:794][  3]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-20.26.39:794][  3]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-20.26.39:934][  3]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.26.39:937][  3]LogInit: FAudioDevice initialized.
+[2020.05.13-20.26.39:946][  3]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-20.26.39:948][  3]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-13.26.39
+[2020.05.13-20.26.39:948][  3]LogWorld: Bringing up level for play took: 0.000745
+[2020.05.13-20.26.39:948][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2020.05.13-20.26.39:956][  3]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.584
+[2020.05.13-20.26.56:414][781]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.26.56:427][781]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.13-20.26.56:448][781]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.13-20.26.56:448][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.26.56:448][781]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.26.56:448][781]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.26.56:449][781]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.26.56:449][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.26.56:465][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-20.26.56:473][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.26.56:525][781]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.26.56:534][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.26.56:540][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.05.13-20.26.56:569][782]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.05.13-20.27.10:840][925]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/InfiniteMatrix/Meshes/SM_Holee_05.SM_Holee_05
+[2020.05.13-20.27.35:244][258]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/SM_Holee_0503C27676448F24830280628D7B86F30D.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Meshes/SM_Holee_05.uasset'
+[2020.05.13-20.27.35:274][258]AssetCheck: New page: Asset Save: SM_Holee_05
+[2020.05.13-20.27.35:274][258]LogContentValidation: Display: Validating StaticMesh /Game/InfiniteMatrix/Meshes/SM_Holee_05.SM_Holee_05
+[2020.05.13-20.27.39:728][322]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.27.39:728][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.28.19:874][983]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.28.20:253][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.05.13-20.28.23:436][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-20.28.23:464][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-20.28.23:465][ 63]PIE: New page: PIE session: TutorialMap (May 13, 2020, 6:28:23 AM)
+[2020.05.13-20.28.23:465][ 63]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.28.23:467][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002846s)
+[2020.05.13-20.28.23:468][ 63]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-20.28.23:469][ 63]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2020.05.13-20.28.23:469][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004617s)
+[2020.05.13-20.28.23:516][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.05.13-20.28.23:518][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-20.28.23:518][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-20.28.23:518][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-20.28.23:518][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-20.28.23:518][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-20.28.23:518][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-20.28.23:518][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-20.28.23:518][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-20.28.23:518][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-20.28.23:518][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: Channel Order:
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-20.28.23:526][ 63]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-20.28.23:643][ 63]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.28.23:645][ 63]LogInit: FAudioDevice initialized.
+[2020.05.13-20.28.23:661][ 63]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-20.28.23:662][ 63]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-13.28.23
+[2020.05.13-20.28.23:662][ 63]LogWorld: Bringing up level for play took: 0.000573
+[2020.05.13-20.28.23:662][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.05.13-20.28.23:668][ 63]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.296
+[2020.05.13-20.28.48:245][218]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.28.48:258][218]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.13-20.28.48:278][218]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.13-20.28.48:278][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.28.48:278][218]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.28.48:278][218]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.28.48:278][218]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.28.48:279][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.28.48:295][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-20.28.48:303][218]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.28.48:353][218]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.28.48:360][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.28.48:366][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.05.13-20.28.48:391][219]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.05.13-20.29.48:273][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.05.13-20.29.48:313][498]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/TutorialMap_Auto508ED402E4C5296E4C59B6489063F047A.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto5.umap'
+[2020.05.13-20.29.48:323][498]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.105
+[2020.05.13-20.29.48:323][498]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.105
+[2020.05.13-20.29.48:325][498]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2020.05.13-20.29.48:369][498]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2020.05.13-20.29.48:369][498]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2020.05.13-20.29.48:439][498]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/BP_Tunnel_Auto53D50091442BC808F47A1F280D18E699E.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto5.uasset'
+[2020.05.13-20.29.48:442][498]LogFileHelpers: Auto-saving content packages took 0.119
+[2020.05.13-20.38.28:543][667]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.38.28:959][667]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.05.13-20.38.35:921][914]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-20.38.35:946][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-20.38.35:947][914]PIE: New page: PIE session: TutorialMap (May 13, 2020, 6:38:35 AM)
+[2020.05.13-20.38.35:947][914]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.38.35:949][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002137s)
+[2020.05.13-20.38.35:951][914]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-20.38.35:951][914]LogPlayLevel: PIE: World Init took: (0.002116s)
+[2020.05.13-20.38.35:952][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004576s)
+[2020.05.13-20.38.35:998][914]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.05.13-20.38.35:999][914]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-20.38.35:999][914]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-20.38.35:999][914]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-20.38.35:999][914]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-20.38.35:999][914]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-20.38.35:999][914]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-20.38.35:999][914]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-20.38.35:999][914]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-20.38.36:000][914]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-20.38.36:000][914]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-20.38.36:008][914]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-20.38.36:009][914]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.38.36:009][914]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-20.38.36:009][914]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-20.38.36:009][914]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-20.38.36:009][914]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-20.38.36:009][914]LogAudioMixer: Display: Channel Order:
+[2020.05.13-20.38.36:009][914]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-20.38.36:009][914]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-20.38.36:121][914]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.38.36:122][914]LogInit: FAudioDevice initialized.
+[2020.05.13-20.38.36:147][914]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-20.38.36:148][914]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 60) at 2020.05.13-13.38.36
+[2020.05.13-20.38.36:149][914]LogWorld: Bringing up level for play took: 0.000778
+[2020.05.13-20.38.36:149][914]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2020.05.13-20.38.36:157][914]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 0.785
+[2020.05.13-20.39.03:482][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.39.03:482][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.39.03:483][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.39.03:483][958]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.39.03:483][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.39.03:483][958]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.39.03:483][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.39.03:504][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-20.39.03:511][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.39.03:550][958]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.39.03:558][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.39.03:564][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.05.13-20.39.03:596][959]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.05.13-20.40.19:572][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.05.13-20.40.19:615][834]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/TutorialMap_Auto68F3C5DAD4359C4636886E2A07B2F9CBF.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Maps/TutorialMap_Auto6.umap'
+[2020.05.13-20.40.19:621][834]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.098
+[2020.05.13-20.40.19:621][834]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.098
+[2020.05.13-20.40.19:622][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2020.05.13-20.40.19:666][834]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2020.05.13-20.40.19:666][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2020.05.13-20.40.19:741][834]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/BP_Tunnel_Auto67C4EDD3E480E4F50167921A1684A25D0.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto6.uasset'
+[2020.05.13-20.40.19:749][834]LogFileHelpers: Auto-saving content packages took 0.128
+[2020.05.13-20.40.23:617][848]BlueprintLog: New page: Compile BP_Tunnel
+[2020.05.13-20.40.23:963][848]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.05.13-20.41.10:262][686]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.13-20.41.10:281][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.13-20.41.10:282][686]PIE: New page: PIE session: TutorialMap (May 13, 2020, 6:41:10 AM)
+[2020.05.13-20.41.10:282][686]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.41.10:285][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002649s)
+[2020.05.13-20.41.10:287][686]LogAIModule: Creating AISystem for world TutorialMap
+[2020.05.13-20.41.10:287][686]LogPlayLevel: PIE: World Init took: (0.001852s)
+[2020.05.13-20.41.10:287][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.004779s)
+[2020.05.13-20.41.10:332][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.05.13-20.41.10:334][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.13-20.41.10:334][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.13-20.41.10:334][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.13-20.41.10:334][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.13-20.41.10:334][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.13-20.41.10:334][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.13-20.41.10:334][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.13-20.41.10:334][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.13-20.41.10:334][686]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.13-20.41.10:334][686]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: Name: Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: Is Default: Yes
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: Channel Count Used: 2
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: Device Channel Count: 2
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: Channel Order:
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.13-20.41.10:342][686]LogAudioMixer: Display: 1: FrontRight
+[2020.05.13-20.41.10:454][686]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.05.13-20.41.10:456][686]LogInit: FAudioDevice initialized.
+[2020.05.13-20.41.10:472][686]LogLoad: Game class is 'GM_Tutorial_C'
+[2020.05.13-20.41.10:473][686]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2020.05.13-13.41.10
+[2020.05.13-20.41.10:474][686]LogWorld: Bringing up level for play took: 0.000816
+[2020.05.13-20.41.10:474][686]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.05.13-20.41.10:484][686]PIE: Play in editor start time for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap 1.111
+[2020.05.13-20.41.22:491][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.41.22:492][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.41.22:493][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.41.22:493][249]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2020.05.13-20.41.22:493][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.41.22:493][249]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.41.22:494][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.41.22:522][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.13-20.41.22:529][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.41.22:576][249]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.13-20.41.22:583][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.13-20.41.22:589][249]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.05.13-20.41.22:617][250]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.05.13-20.41.23:955][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.05.13-20.41.23:984][305]LogSavePackage: Moving '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Saved/TutorialMap9DB9174645E7EBBADB56D5BA944D1275.tmp' to '../../../../../../Users/steph/Desktop/InfiniteMatrixCompleteProject/InfiniteMatrixComplete 4.24/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2020.05.13-20.41.24:033][305]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.13-20.41.24:034][305]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2020.05.13-20.41.24:034][305]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2020.05.13-20.41.37:212][393]LogSlate: Window 'BP_TunnelSpawner' being destroyed
+[2020.05.13-20.41.37:220][393]LogSlate: Window 'BP_TunnelSpawner' being destroyed
+[2020.05.13-20.41.37:222][393]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.13-20.41.37:223][393]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.41.37:223][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.41.37:462][393]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.13-20.41.37:463][393]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.05.13-20.41.37:463][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.13-20.41.38:765][401]LogEditorViewport: Clicking Background
